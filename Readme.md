@@ -19,13 +19,16 @@ To install lerna as a dev dependdency
 
 goto packages/mobileuser folder
 
-### yarn start
+###  To start the metro bundler(in one terminal)
 
-Run this command to start the metro bundler(in one terminal)
+'yarn start'
 
-### yarn android
+Run this command 
 
-Run this command to install and launch your app on the device (in other terminal)
+###   To install and launch your app on the device (in other terminal)
+yarn android
+
+ 
 
 
 
