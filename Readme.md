@@ -1,6 +1,6 @@
 ## Setup
 
-#### step 1: install yarn  
+### step 1: install yarn  
 'yarn or yarn install'
 
 To install lerna as a dev dependdency
@@ -25,27 +25,24 @@ goto packages/mobileuser folder
 
 Run this command 
 
-###   To install and launch your app on the device (in other terminal)
-yarn android
-
- 
+###  To install and launch your app on android device (in other terminal)
+'yarn android'
 
 
+### To install and launch your app on the ios device
 
-### To install and launch your app on the device
-
-yarn ios 
+'yarn ios' 
 
 goto packages/webuser folder
 
 ### To start web app in development mode
-yarn start
+'yarn start'
 
-Run this command 
+ 
 
 ### Misc
 
- to install any library  to specific package (like ui-components,mobile-screens...etc)
+ To install any library  to specific package (like ui-components,mobile-screens...etc)
  
  yarn lerna add libraryname --scope= packagename
  
