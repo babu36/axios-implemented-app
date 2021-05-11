@@ -6,12 +6,12 @@
 To install lerna as a dev dependdency
 
 ### step 2: install lerna as a dev dependdency
-with this command 
+ 
 
 'yarn add lerna -D or yarn add lerna --dev'
 
 ### step 3:bootstrap the packages in the current repo,install all their dependencies and linking any cross-dependencies.
-with this command
+ 
  ' yarn lerna bootstrap'
 
 ## Running
