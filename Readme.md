@@ -32,15 +32,16 @@ yarn android
 
 
 
-### yarn ios
+### To install and launch your app on the device
 
-Run this command to install and launch your app on the device
+yarn ios 
 
 goto packages/webuser folder
 
-### yarn start
+### To start web app in development mode
+yarn start
 
-Run this command to start web app in development mode
+Run this command 
 
 ### Misc
 
