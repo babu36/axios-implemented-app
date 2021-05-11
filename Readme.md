@@ -1,6 +1,6 @@
 ## Setup
 
-### step 1: install yarn  
+#### step 1: install yarn  
 'yarn or yarn install'
 
 To install lerna as a dev dependdency
