@@ -3,7 +3,8 @@
 In the project Root folder (frontend)
 Run these commands
 
-###  1). yarn or yarn install
+### step 1: install yarn  
+yarn or yarn install
 
 To install lerna as a dev dependdency
 
