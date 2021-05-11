@@ -4,19 +4,20 @@
 In the project Root folder (frontend)
  
 
-To install yarn
 
 ### yarn or yarn install
 
-To install lerna as a dev dependdency
+To install yarn
 
 ### yarn add lerna -D or yarn add lerna --dev
 
+To install lerna as a dev dependdency
+
+
+### yarn lerna bootstrap
 
 to bootstrap the packages in the current repo,install all their dependencies and linking any cross-dependencies.
 run this command 
-
-### yarn lerna bootstrap
 
 ## Running
 
@@ -47,7 +48,7 @@ Run this command to start web app in development mode
 
  to install any library  to specific package (like ui-components,mobile-screens...etc)
  
- yarn lerna add libraryname --scope= packagename
+ ### yarn lerna add libraryname --scope= packagename
  
  ex:
  
