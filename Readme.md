@@ -1,19 +1,18 @@
 ## Setup
 
-In the project Root folder (frontend)
-Run these commands
-
 ### step 1: install yarn  
-yarn or yarn install
+'yarn or yarn install'
 
 To install lerna as a dev dependdency
 
-### 2). yarn add lerna -D or yarn add lerna --dev
+### step 2: install lerna as a dev dependdency
+with this command 
 
-to bootstrap the packages in the current repo,install all their dependencies and linking any cross-dependencies.
-run this command 
+'yarn add lerna -D or yarn add lerna --dev'
 
-### 3). yarn lerna bootstrap
+### step 3:bootstrap the packages in the current repo,install all their dependencies and linking any cross-dependencies.
+with this command
+ ' yarn lerna bootstrap'
 
 ## Running
 
