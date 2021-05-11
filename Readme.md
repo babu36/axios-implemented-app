@@ -5,10 +5,8 @@ In the project Root folder (frontend)
  
 
 
-### yarn or yarn install
-
-To install yarn
-
+### To install yarn
+'yarn or yarn install '
 ### yarn add lerna -D or yarn add lerna --dev
 
 To install lerna as a dev dependdency
